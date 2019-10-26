@@ -5,7 +5,7 @@ import {
 } from '../actions/actions'
 
 const initialState = {
-    smurfs: 'smurf'
+    smurfs: null
 }
 
 const reducer = (state = initialState, action) => {
