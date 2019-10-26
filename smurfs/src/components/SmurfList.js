@@ -8,7 +8,7 @@ import Smurf from './Smurf'
 
 const List = styled.div`
     display: flex;
-    flex-flow: row wrap
+    flex-flow: row wrap;
     padding: 2rem;
 `
 
