@@ -10,6 +10,7 @@ const Div = styled.div`
     align-items: center;
     width: 20%;
     padding: 2rem;
+    margin: 1rem 0 0 1rem;
 `
 const Info = styled.div`
     font-size: 2rem;
